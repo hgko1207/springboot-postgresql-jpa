@@ -1,2 +1,7 @@
 # springboot-postgresql-jpa
-Spring Boot + PostgreSQL + JPA
+Web Template Project
+
+- Spring Boot
+- PostgreSQL
+- JPA
+- Maven
